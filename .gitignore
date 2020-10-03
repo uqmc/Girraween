@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# IDE files
+.vs*
+.idea/
+__pycache__/
+.DS_Store
+
+# Runtime data
+logs
+*.log

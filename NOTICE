@@ -1,0 +1,23 @@
+=========================================================================
+==  NOTICE file for UQMC's Girraween api project. To be retained       ==
+==  and updated upon changing this code, as per Apache-2.0.            ==
+=========================================================================
+
+UQMC Girraween
+Copyright 2020 University of Queensland Mountain Club Inc.
+
+This project includes software developed by University of
+Queensland Mountain Club Inc (https://uqmc.org/).
+
+The Apache-2.0 license applies to all files in the UQMC Girraween
+repository and any source or binary distribution. This includes UQMC
+Girraween’s source code and tests, as well as any documentation.
+
+This software utilises third-party libraries developed under permissive
+open-source licenses.
+
+===================================================================================
+==  Upon modifying, and/or distributing this project in source                   ==
+==  or binary form, one must update this NOTICE file and preserve all copyright  ==
+==  and license notices for all files, modified and/or distributed.              ==
+===================================================================================

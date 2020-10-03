@@ -1,0 +1,14 @@
+# Ignore files when interfacing with Docker container
+
+# Version control
+.git
+
+# IDE files
+.vs*
+.idea/
+__pycache__/
+.DS_Store
+
+# Runtime data
+logs
+*.log
